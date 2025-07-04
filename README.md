@@ -10,4 +10,3 @@ This project is a clone of the Spotify web player, designed to closely mimic the
 
 Check out the live demo here: [Spotify Web Player Clone](https://spotify-nine-indol.vercel.app/)
 
-"Spotify"
